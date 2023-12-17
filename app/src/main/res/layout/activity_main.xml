@@ -6,6 +6,8 @@
     <!--đang test mà -->
     <!-- Main content -->
 <!--    test lần cuối để gửi lên git 11:48-->
+<!--   test lần 2 khi merge code -->
+
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
